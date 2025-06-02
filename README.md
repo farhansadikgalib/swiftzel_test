@@ -23,7 +23,7 @@ A Flutter project demonstrating clean architecture, BLoC state management, and d
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/swiftzel_test.git
+   git clone https://github.com/farhansadikgalib/swiftzel_test.git
    cd swiftzel_test
    ```
 
@@ -39,9 +39,11 @@ A Flutter project demonstrating clean architecture, BLoC state management, and d
 
 ## Screenshots
 
-![Posts Page](assets/screenshots/posts_page.png)
-
-> Place your screenshot at `assets/screenshots/posts_page.png`.
+<table>
+  <tr>
+    <td><img src="assets/screenshots/posts_page.png" alt="Sender Screenshot" width="300" /></td>
+  </tr>
+</table>
 
 ## Project Structure
 
@@ -51,8 +53,3 @@ A Flutter project demonstrating clean architecture, BLoC state management, and d
 - `lib/core/` - Core utilities, network, errors
 - `lib/injection_container.dart` - Dependency injection setup
 - `lib/main.dart` - App entry point
-
-## License
-
-This project is licensed under the MIT License.
-```
